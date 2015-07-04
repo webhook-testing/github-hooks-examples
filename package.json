@@ -1,0 +1,25 @@
+{
+  "name": "github-hooks-examples",
+  "version": "1.0.0",
+  "description": "github webhook json examples for current repository",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webhook-testing/github-hooks-examples.git"
+  },
+  "keywords": [
+    "github",
+    "webhook",
+    "webhooks",
+    "examples"
+  ],
+  "author": "webhook-testing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webhook-testing/github-hooks-examples/issues"
+  },
+  "homepage": "https://github.com/webhook-testing/github-hooks-examples#readme"
+}
