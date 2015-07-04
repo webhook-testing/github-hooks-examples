@@ -9,6 +9,8 @@ This repository holds example of actual post data from github's webhooks. Hooks 
 
 ![org-webhook-config](https://raw.github.com/webhook-testing/github-hooks-examples/master/org-webhook-config.png)
 
-Access post result is sent to [requestb.in](http://requestb.in/1fcb5691?inspect). It's actually private so it has some restrictions, but we don't really care.
+`POST` data was sent to [requestb.in](http://requestb.in/1fcb5691?inspect).It's actually private so it has some restrictions, but we don't really care.
 
 > This private bin will keep the last 20 requests made to it and remain available for 48 hours after it was created. However, data might be cleared at any time, so treat bins as highly ephemeral.
+
+Results are currently stored in folder based on `X-Github-Event` value.
