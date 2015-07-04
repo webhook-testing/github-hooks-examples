@@ -1,0 +1,13 @@
+Accept: */*
+X-Hub-Signature: sha1=222e5840da4cfe13765f875dcd1de98e19c520f3
+X-Request-Id: bb256e6f-6c86-438a-9f2f-821fc6e1056d
+X-Github-Event: ping
+Host: requestb.in
+X-Github-Delivery: c66da900-227d-11e5-8ed2-ebdba7b32942
+Content-Length: 1822
+User-Agent: GitHub-Hookshot/8b1477d
+Content-Type: application/json
+Connection: close
+Via: 1.1 vegur
+Total-Route-Time: 0
+Connect-Time: 1

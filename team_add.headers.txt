@@ -1,0 +1,13 @@
+Accept: */*
+X-Hub-Signature: sha1=beac3df4ad1e0857f32c56bf799fbe8d7ef4fe71
+X-Request-Id: 1f6ec772-9e5f-4370-954b-0823a57c84b9
+X-Github-Event: team_add
+Connection: close
+X-Github-Delivery: 2e23f400-227e-11e5-893d-9da76c210aea
+User-Agent: GitHub-Hookshot/8b1477d
+Content-Type: application/json
+Content-Length: 6905
+Via: 1.1 vegur
+Total-Route-Time: 0
+Host: requestb.in
+Connect-Time: 1

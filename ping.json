@@ -1,0 +1,52 @@
+{
+    "zen": "Speak like a human.",
+    "hook_id": 5222333,
+    "hook": {
+        "url": "https://api.github.com/orgs/webhook-testing/hooks/5222333",
+        "ping_url": "https://api.github.com/orgs/webhook-testing/hooks/5222333/pings",
+        "id": 5222333,
+        "name": "web",
+        "active": true,
+        "events": [
+            "*"
+        ],
+        "config": {
+            "url": "http://requestb.in/1fcb5691",
+            "content_type": "json",
+            "insecure_ssl": "0",
+            "secret": "********"
+        },
+        "updated_at": "2015-07-04T18:52:10Z",
+        "created_at": "2015-07-04T18:52:10Z"
+    },
+    "organization": {
+        "login": "webhook-testing",
+        "id": 13179622,
+        "url": "https://api.github.com/orgs/webhook-testing",
+        "repos_url": "https://api.github.com/orgs/webhook-testing/repos",
+        "events_url": "https://api.github.com/orgs/webhook-testing/events",
+        "members_url": "https://api.github.com/orgs/webhook-testing/members{/member}",
+        "public_members_url": "https://api.github.com/orgs/webhook-testing/public_members{/member}",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13179622?v=3",
+        "description": null
+    },
+    "sender": {
+        "login": "GabLeRoux",
+        "id": 1264761,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1264761?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/GabLeRoux",
+        "html_url": "https://github.com/GabLeRoux",
+        "followers_url": "https://api.github.com/users/GabLeRoux/followers",
+        "following_url": "https://api.github.com/users/GabLeRoux/following{/other_user}",
+        "gists_url": "https://api.github.com/users/GabLeRoux/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/GabLeRoux/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/GabLeRoux/subscriptions",
+        "organizations_url": "https://api.github.com/users/GabLeRoux/orgs",
+        "repos_url": "https://api.github.com/users/GabLeRoux/repos",
+        "events_url": "https://api.github.com/users/GabLeRoux/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/GabLeRoux/received_events",
+        "type": "User",
+        "site_admin": false
+    }
+}
